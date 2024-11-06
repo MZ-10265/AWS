@@ -1,0 +1,35 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.container
+{
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.jumbotron
+{
+    background-color: rgb(108, 108, 163);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 15px;
+    font-size: 30px;
+    width: 80vw;
+}
+
+#canvas 
+{
+    margin: auto;
+    width:700px;
+    height:600px;
+}
